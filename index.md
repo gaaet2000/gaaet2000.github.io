@@ -2,11 +2,11 @@
 
 <form>
   <div>
-    <label for="mdp">Veuillez saisir le mot de passe : </label>
-    <input type="text" id="mdp" name="password" required>
+    <label for="pass">Veuillez saisir le mot de passe : </label>
+    <input type="password" id="pass" pattern="ght4">
     <span class="validity"></span>
   </div>
   <div>
-      <button>Confirmer</button>
+      <input type="submit" value="Confirmer">
   </div>
 </form>
