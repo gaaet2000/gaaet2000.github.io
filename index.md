@@ -2,11 +2,15 @@
 
 <form>
   <div>
-    <label for="mdr">Veuillez saisir le mot de passe : </label>
+    <label for="mdp">Veuillez saisir le mot de passe : </label>
     <input type="text" id="mdp" name="password" required>
     <span class="validity"></span>
   </div>
   <div>
-    <a href="https://gaaet2000.github.io/bureau"><button>Confirmer</button></a>.
+    if (mdp==1234) {
+      <a href="https://gaaet2000.github.io/bureau"><button>Confirmer</button></a>}
+    else (mdp!=1234) {
+      <button>Confirmer</button>
+      <p>X</p>}
   </div>
 </form>
