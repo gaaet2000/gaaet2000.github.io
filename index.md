@@ -7,6 +7,6 @@
     <span class="validity"></span>
   </div>
   <div>
-      <button onclick="https://gaaet2000.github.io/bureau">Confirmer</button>
+      <button>Confirmer</button>
   </div>
 </form>
