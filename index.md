@@ -7,6 +7,6 @@
     <span class="validity"></span>
   </div>
   <div>
-      <button type="submit" formaction="gaaet2000.github.io/bureau">Confirmer</button>
+      <button type="submit" form action="gaaet2000.github.io/bureau">Confirmer</button>
   </div>
 </form>
