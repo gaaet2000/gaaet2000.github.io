@@ -5,3 +5,7 @@
 
 <p>e-mail</p>
 <img src="https://img.icons8.com/plasticine/2x/important-mail.png" />
+
+<p>Je suis en train de créer un lien à
+<a href="https://www.mozilla.org/fr/">la page d'accueil Mozilla</a>.
+</p>
