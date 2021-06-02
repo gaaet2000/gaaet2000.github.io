@@ -7,7 +7,6 @@
     <span class="validity"></span>
   </div>
   <div>
-      <button>Confirmer</button>
-      <a href="https://gaaet2000.github.io/bureau"></a>
+      <button>Confirmer<a href="https://gaaet2000.github.io/bureau"></a></button>
   </div>
 </form>
