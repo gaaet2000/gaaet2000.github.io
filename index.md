@@ -7,6 +7,6 @@
     <span class="validity"></span>
   </div>
   <div>
-      <p>Cliquez ce <a href="http://exemple.com"><button type="button">bouton</button></a> pour aller sur une autre page.</p>
+      <a href="http://exemple.com"><button type="button">bouton</button></a>
   </div>
 </form>
