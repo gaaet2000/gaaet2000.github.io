@@ -8,6 +8,6 @@
   </div>
   <div>
       <button>Confirmer</button>
-  <a href="https://gaaet2000.github.io/bureau"></a>
+      <a href="https://gaaet2000.github.io/bureau"></a>
   </div>
 </form>
