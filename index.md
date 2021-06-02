@@ -1,6 +1,5 @@
 <h1>MOT DE PASSE</h1>
 
-<a href="https://gaaet2000.github.io/bureau">
 <form>
   <div>
     <label for="pass">Veuillez saisir le mot de passe : </label>
@@ -11,4 +10,3 @@
       <input type="submit" value="Confirmer">
   </div>
 </form>
-</a>
