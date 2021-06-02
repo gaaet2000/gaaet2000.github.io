@@ -7,6 +7,7 @@
     <span class="validity"></span>
   </div>
   <div>
-    <a href="http://exemple.com"></a><button>Confirmer</button>
+    <button>Confirmer</button>
+    <a href="http://exemple.com"></a>
   </div>
 </form>
