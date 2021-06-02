@@ -7,8 +7,8 @@
     <span class="validity"></span>
   </div>
   <div>
-      <form action="gaaet2000.github.io/bureau">
-         <button type="submit">Cliquez sur moi</button>
+      <form action="http://gaaet2000.github.io/bureau">
+        <button; type="submit">Action;</button>
       </form>
   </div>
 </form>
