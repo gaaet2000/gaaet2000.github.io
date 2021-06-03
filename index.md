@@ -8,8 +8,8 @@
 <script>
  
 document.getElementById('ok').addEventListener('click',function(){
-    if(document.getElementById('password').value=='ght7CDs%E7am'){
-        location.href='gaaet2000.github.io/bureau';
+    if(document.getElementById('password').value=='azerty'){
+        location.href='https://gaaet2000.github.io/bureau';
     }
     else{
         document.getElementById('error').innerHTML='Le mot de pass est incorrect';
